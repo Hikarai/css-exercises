@@ -36,5 +36,5 @@ button {
 
 .button-container {
   padding: 8px;
-  padding: 0 auto;
+  text-align: center;
 }
